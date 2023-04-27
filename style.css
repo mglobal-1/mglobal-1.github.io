@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-image: url(https://images.iphonephotographyschool.com/27904/1125/iphone-landscape-mastery-photo-1.jpg);
     font-family: sans-serif;
     padding: 20px;
 }
@@ -22,7 +22,7 @@ h1,h2,p {
     text-align: center;
 }
 
-.menu {
+.menu,section {
     width: 80%;
     background-color: aquamarine;
     margin-left: auto;
